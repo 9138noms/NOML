@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "NOML: Hierarchical TD3 with Anchor Policy and Mirror Learning"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - alias: "9138noms"
+repository-code: "https://github.com/9138noms/NOML"
+url: "https://github.com/9138noms/NOML"
+abstract: >-
+  NOML is a custom reinforcement-learning algorithm for continuous control on
+  tasks where one axis dominates the dynamics. It combines a fixed anchor
+  policy, a hierarchical TD3 delta actor, a per-axis sigmoid gate, mirror
+  learning for symmetric environments, and an optional independent binary
+  head. Designed to address the catastrophic-forgetting and axis-coupling
+  failure modes of vanilla TD3 on flight-control tasks.
+  Algorithm structure first publicly described on 2026-05-16 (Discord NORL
+  forum) prior to this GitHub release.
+keywords:
+  - reinforcement learning
+  - TD3
+  - hierarchical policy
+  - flight control
+  - continuous control
+license: Apache-2.0
+version: "1.0.0"
+date-released: 2026-05-20
