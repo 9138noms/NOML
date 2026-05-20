@@ -3,7 +3,8 @@ title: "NOML: Hierarchical TD3 with Anchor Policy and Mirror Learning"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 authors:
-  - alias: "9138noms"
+  - name: "9138noms"
+    alias: "9138noms"
 repository-code: "https://github.com/9138noms/NOML"
 url: "https://github.com/9138noms/NOML"
 abstract: >-
