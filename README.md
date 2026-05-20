@@ -1,5 +1,8 @@
 # NOML
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20308744.svg)](https://doi.org/10.5281/zenodo.20308744)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 > Hierarchical TD3 with Anchor Policy and Mirror Learning — a structural fix for continuous-control RL on tasks where one axis dominates the dynamics and pure TD3 collapses into oscillation.
 
 **Test video**: https://www.youtube.com/watch?v=ZNn6wo_PX8Y
@@ -155,9 +158,12 @@ See `noml/example_config.py` for a more complete example configuration.
 If you use NOML in your work, please cite it (see `CITATION.cff` for machine-readable form):
 
 ```
-9138noms. NOML: Hierarchical TD3 with Anchor Policy and Mirror Learning. 2026.
-https://github.com/9138noms/NOML
+9138noms (2026). NOML: Hierarchical TD3 with Anchor Policy and Mirror Learning.
+Zenodo. https://doi.org/10.5281/zenodo.20308744
 ```
+
+- Concept DOI (always resolves to latest): `10.5281/zenodo.20308744`
+- v1.0.1: `10.5281/zenodo.20308745`
 
 ## License
 

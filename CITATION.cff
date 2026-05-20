@@ -5,6 +5,14 @@ type: software
 authors:
   - name: "9138noms"
     alias: "9138noms"
+doi: "10.5281/zenodo.20308744"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20308744"
+    description: "Concept DOI (all versions, resolves to latest)"
+  - type: doi
+    value: "10.5281/zenodo.20308745"
+    description: "Version 1.0.1"
 repository-code: "https://github.com/9138noms/NOML"
 url: "https://github.com/9138noms/NOML"
 abstract: >-
